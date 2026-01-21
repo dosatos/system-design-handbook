@@ -1,4 +1,40 @@
+---
+title: "xAI Interview Process"
+category: "Interview Intelligence"
+company: "xAI"
+last_updated: "January 2026"
+
+summary: |
+  xAI interview deep dive: 4-5 rounds, ~54 day process, LeetCode Hard coding.
+  Heavy concurrency focus with production-level code on the spot. Stages: online assessment,
+  technical interviews, system design, behavioral. First-principles design required.
+  Values: initiative, velocity, ownership. Safety culture context worth understanding.
+
+outline:
+  - Overview
+  - Interview Stages
+  - Coding Interviews
+  - System Design Interviews
+  - ML-Specific Questions
+  - Behavioral Interview
+  - Key Success Factors
+  - Resources
+---
+
 # xAI Interview Process
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Interview Stages](#interview-stages)
+- [Coding Interviews](#coding-interviews)
+- [System Design Interviews](#system-design-interviews)
+- [ML-Specific Questions](#ml-specific-questions-if-applicable)
+- [Behavioral Interview](#behavioral-interview)
+- [Key Success Factors](#key-success-factors)
+- [Resources](#resources)
+
+---
 
 ## Overview
 

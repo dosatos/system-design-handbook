@@ -1,4 +1,33 @@
+---
+title: "Company-Specific Design Scenarios"
+category: "System Design"
+last_updated: "January 2026"
+
+summary: |
+  Real system design scenarios tailored to each AI company's interview style.
+  OpenAI: RAG system, distributed training. Anthropic: massive scale search + LLM,
+  token generation at 100K RPS. DeepMind: experiment tracking system. xAI: log
+  ingestion pipeline, model serving with A/B testing. Includes framework and tips.
+
+outline:
+  - OpenAI-Style Questions (RAG System, Distributed Training)
+  - Anthropic-Style Questions (Scale Search + LLM, Token Generation)
+  - DeepMind-Style Questions (Experiment Tracking)
+  - xAI-Style Questions (Log Ingestion, Model Serving A/B Testing)
+  - General Tips
+---
+
 # Company-Specific Design Scenarios
+
+## Table of Contents
+
+- [OpenAI-Style Questions](#openai-style-questions)
+- [Anthropic-Style Questions](#anthropic-style-questions)
+- [DeepMind-Style Questions](#deepmind-style-questions)
+- [xAI-Style Questions](#xai-style-questions)
+- [General Tips](#general-tips)
+
+---
 
 ## OpenAI-Style Questions
 

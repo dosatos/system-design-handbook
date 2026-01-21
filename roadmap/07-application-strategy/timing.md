@@ -1,4 +1,39 @@
+---
+title: "Application Timing & Strategy"
+category: "Application Strategy"
+last_updated: "January 2026"
+
+summary: |
+  Strategic guide for timing AI company applications. Best months: January, March, April,
+  September, October. Covers pre-application checklist, recommended application order
+  (practice companies first), parallel vs sequential strategy, application channels
+  ranked by effectiveness, and handling multiple offers with timeline examples.
+
+outline:
+  - Optimal Timing
+  - Pre-Application Checklist
+  - Application Strategy
+  - Application Channels
+  - Tracking Applications
+  - Following Up
+  - Handling Multiple Offers
+  - Timeline Example
+---
+
 # Application Timing & Strategy
+
+## Table of Contents
+
+- [Optimal Timing](#optimal-timing)
+- [Pre-Application Checklist](#pre-application-checklist)
+- [Application Strategy](#application-strategy)
+- [Application Channels](#application-channels)
+- [Tracking Applications](#tracking-applications)
+- [Following Up](#following-up)
+- [Handling Multiple Offers](#handling-multiple-offers)
+- [Timeline Example](#timeline-example)
+
+---
 
 ## Optimal Timing
 

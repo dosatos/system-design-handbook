@@ -1,4 +1,34 @@
+---
+title: "Company Values & Mission Alignment"
+category: "Behavioral"
+last_updated: "January 2026"
+
+summary: |
+  Deep dive into each AI company's mission, values, and culture for behavioral interview
+  preparation. OpenAI: AGI benefits humanity, balance speed and safety. Anthropic: safety
+  first, HHH framework, research + engineering. DeepMind: solve intelligence, scientific
+  excellence. xAI: velocity, initiative, first-principles. Includes sample answers.
+
+outline:
+  - OpenAI (Mission, Values, Interview Alignment)
+  - Anthropic (Mission, Values, Interview Alignment)
+  - Google DeepMind (Mission, Values, Interview Alignment)
+  - xAI (Mission, Values, Interview Alignment)
+  - Comparison & Positioning
+---
+
 # Company Values & Mission Alignment
+
+## Table of Contents
+
+- [OpenAI](#openai)
+- [Anthropic](#anthropic)
+- [Google DeepMind](#google-deepmind)
+- [xAI](#xai)
+- [Comparison: How to Position Yourself](#comparison-how-to-position-yourself)
+- [General Tips](#general-tips)
+
+---
 
 ## OpenAI
 

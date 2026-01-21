@@ -1,4 +1,39 @@
+---
+title: "Referral & Networking Strategy"
+category: "Application Strategy"
+last_updated: "January 2026"
+
+summary: |
+  Comprehensive networking and referral guide for AI company applications. Referrals have
+  10x higher conversion rate than cold applications. Covers referral sources (existing
+  network, open source, events), outreach templates (4 types), 6-month networking plan,
+  best practices, and post-referral protocol.
+
+outline:
+  - Why Referrals Matter
+  - Referral Sources
+  - Outreach Templates
+  - Networking Best Practices
+  - After Getting a Referral
+  - Building Long-Term Relationships
+  - Networking Events & Communities
+  - Tracking Your Network
+---
+
 # Referral & Networking Strategy
+
+## Table of Contents
+
+- [Why Referrals Matter](#why-referrals-matter)
+- [Referral Sources](#referral-sources)
+- [Outreach Templates](#outreach-templates)
+- [Networking Best Practices](#networking-best-practices)
+- [After Getting a Referral](#after-getting-a-referral)
+- [Building Long-Term Relationships](#building-long-term-relationships)
+- [Networking Events & Communities](#networking-events--communities)
+- [Tracking Your Network](#tracking-your-network)
+
+---
 
 ## Why Referrals Matter
 

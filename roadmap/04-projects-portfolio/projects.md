@@ -1,4 +1,37 @@
+---
+title: "Practical Projects & Portfolio"
+category: "Projects & Portfolio"
+last_updated: "January 2026"
+
+summary: |
+  Guide to building portfolio projects that impress AI companies. Four recommended projects:
+  RAG System (2-3 weeks), Distributed Training Framework (3-4 weeks), Model Serving System
+  (2-3 weeks), and LLM Safety Evaluator (2 weeks). Also covers open source contribution
+  strategy, blog writing, and project selection by target company.
+
+outline:
+  - Why Projects Matter
+  - Recommended Projects (RAG, Distributed Training, Model Serving, Safety Evaluator)
+  - Open Source Contribution Opportunities
+  - Blog Writing & Thought Leadership
+  - Portfolio Presentation
+  - Project Selection Guide
+  - Timeline for Projects
+---
+
 # Practical Projects & Portfolio
+
+## Table of Contents
+
+- [Why Projects Matter](#why-projects-matter)
+- [Recommended Projects](#recommended-projects)
+- [Open Source Contribution Opportunities](#open-source-contribution-opportunities)
+- [Blog Writing & Thought Leadership](#blog-writing--thought-leadership)
+- [Portfolio Presentation](#portfolio-presentation)
+- [Project Selection Guide](#project-selection-guide)
+- [Timeline for Projects](#timeline-for-projects)
+
+---
 
 ## Why Projects Matter
 

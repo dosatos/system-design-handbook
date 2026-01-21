@@ -1,4 +1,41 @@
+---
+title: "Quick Reference Cards"
+category: "Resources"
+last_updated: "January 2026"
+
+summary: |
+  Printable quick reference cards for rapid review. Covers: Transformer architecture
+  (attention formula, encoder/decoder), distributed training (data/model/pipeline/tensor
+  parallelism), RLHF pipeline, LLM inference optimization, algorithm complexity,
+  system design numbers, AI safety topics, interview day checklist, and common coding patterns.
+
+outline:
+  - Transformer Architecture
+  - Distributed Training
+  - RLHF Pipeline
+  - LLM Inference Optimization
+  - Algorithm Complexity Cheat Sheet
+  - System Design Numbers
+  - AI Safety Topics
+  - Interview Day Checklist
+  - Common Coding Patterns
+---
+
 # Quick Reference Cards
+
+## Table of Contents
+
+- [Transformer Architecture](#transformer-architecture)
+- [Distributed Training](#distributed-training)
+- [RLHF Pipeline](#rlhf-pipeline)
+- [LLM Inference Optimization](#llm-inference-optimization)
+- [Algorithm Complexity Cheat Sheet](#algorithm-complexity-cheat-sheet)
+- [System Design Numbers](#system-design-numbers)
+- [AI Safety Topics](#ai-safety-topics)
+- [Interview Day Checklist](#interview-day-checklist)
+- [Common Coding Patterns](#common-coding-patterns)
+
+---
 
 ## Transformer Architecture
 

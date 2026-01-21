@@ -1,4 +1,41 @@
+---
+title: "Company Comparison Matrix"
+category: "Company Research"
+last_updated: "January 2026"
+
+summary: |
+  Side-by-side comparison of OpenAI, Anthropic, DeepMind, and xAI across key dimensions:
+  mission, values, technical requirements, interview process, compensation, and culture fit.
+  Includes guidance on which company suits different candidate profiles and recommended
+  application order based on risk tolerance.
+
+outline:
+  - At a Glance Comparison
+  - Mission & Values Comparison
+  - Technical Skills Matrix
+  - Interview Process Comparison
+  - Compensation Comparison
+  - Culture Fit Indicators
+  - Talent Flow Trends
+  - Application Strategy by Company
+  - Recommended Order of Application
+---
+
 # Company Comparison Matrix
+
+## Table of Contents
+
+- [At a Glance](#at-a-glance)
+- [Mission & Values Comparison](#mission--values-comparison)
+- [Technical Skills Matrix](#technical-skills-matrix)
+- [Interview Process Comparison](#interview-process-comparison)
+- [Compensation Comparison](#compensation-comparison-senior-level)
+- [Culture Fit Indicators](#culture-fit-indicators)
+- [Talent Flow](#talent-flow)
+- [Application Strategy by Company](#application-strategy-by-company)
+- [Recommended Order of Application](#recommended-order-of-application)
+
+---
 
 ## At a Glance
 
@@ -10,6 +47,8 @@
 | **Structure** | Capped-profit | PBC | Google subsidiary | Private |
 | **Focus** | AGI products | AI safety | Research | Speed/scale |
 
+---
+
 ## Mission & Values Comparison
 
 | Company | Mission | Core Values |
@@ -18,6 +57,8 @@
 | **Anthropic** | "Build reliable, interpretable, steerable AI" | Safety-first, helpful/honest/harmless, scientific rigor |
 | **DeepMind** | "Solve intelligence, solve everything else" | Scientific excellence, interdisciplinary, long-term vision |
 | **xAI** | "Help humanity understand the universe" | Velocity, first-principles, innovation over protocol |
+
+---
 
 ## Technical Skills Matrix
 
@@ -30,6 +71,8 @@
 | C++/Low-level | ★★ | ★ | ★★★ | ★★★ |
 | Research Skills | ★★ | ★★ | ★★★ | ★ |
 
+---
+
 ## Interview Process Comparison
 
 | Aspect | OpenAI | Anthropic | DeepMind | xAI |
@@ -40,6 +83,8 @@
 | **Safety Focus** | High | Very High | High | Moderate |
 | **Success Rate** | 32% positive | 35% positive | Varies | 46% positive |
 
+---
+
 ## Compensation Comparison (Senior Level)
 
 | Company | Base | Total Comp | Notes |
@@ -48,6 +93,8 @@
 | **Anthropic** | $280K-$400K | $470K-$630K | Equity matching, great benefits |
 | **DeepMind** | Google bands | Google bands | Google compensation structure |
 | **xAI** | Competitive | Competitive + equity | Startup equity potential |
+
+---
 
 ## Culture Fit Indicators
 
@@ -75,12 +122,16 @@
 - Take initiative without being asked
 - Want startup equity + impact
 
+---
+
 ## Talent Flow
 
 Recent trends (2025):
 > "Engineers at OpenAI were eight times more likely to leave for Anthropic, while at DeepMind, that ratio was almost 11:1 in Anthropic's favor."
 
 Anthropic leads in retention with 80% rate for employees hired in last two years.
+
+---
 
 ## Application Strategy by Company
 
@@ -104,15 +155,17 @@ Anthropic leads in retention with 80% rate for employees hired in last two years
 - **Prepare:** Hard LeetCode, concurrency, system design
 - **Referral:** Connections to Musk network valuable
 
+---
+
 ## Recommended Order of Application
 
-**For Risk-Averse Candidates:**
+### For Risk-Averse Candidates
 1. DeepMind (longest process, most forgiving)
 2. Anthropic (clear process, fair evaluation)
 3. OpenAI (high bar, practical focus)
 4. xAI (fast-paced, high pressure)
 
-**For High-Confidence Candidates:**
+### For High-Confidence Candidates
 1. Start with less-preferred companies for practice
 2. Apply to preferred companies after 1-2 interviews
 3. Try to align final rounds for negotiation leverage

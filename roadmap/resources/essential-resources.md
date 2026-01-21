@@ -1,4 +1,43 @@
+---
+title: "Essential Resources"
+category: "Resources"
+last_updated: "January 2026"
+
+summary: |
+  Curated collection of essential resources for AI company interview preparation.
+  Books: DDIA, Chip Huyen's ML books. Platforms: NeetCode, LeetCode, Educative.
+  GitHub repos for interview prep. Company engineering blogs (OpenAI, Anthropic,
+  DeepMind). Interview experience sources. Research papers. Tools and communities.
+
+outline:
+  - Books (Must-Read, Recommended, Free)
+  - Online Courses & Platforms
+  - GitHub Repositories
+  - Company Engineering Blogs
+  - Interview Experience Sources
+  - Research Papers
+  - Tools & Software
+  - Podcasts & YouTube
+  - Communities
+  - Quick Access Bookmarks
+---
+
 # Essential Resources
+
+## Table of Contents
+
+- [Books](#books)
+- [Online Courses & Platforms](#online-courses--platforms)
+- [GitHub Repositories](#github-repositories)
+- [Company Engineering Blogs](#company-engineering-blogs)
+- [Interview Experience Sources](#interview-experience-sources)
+- [Research Papers](#research-papers)
+- [Tools & Software](#tools--software)
+- [Podcasts & YouTube](#podcasts--youtube)
+- [Communities](#communities)
+- [Quick Access Bookmarks](#quick-access-bookmarks)
+
+---
 
 ## Books
 

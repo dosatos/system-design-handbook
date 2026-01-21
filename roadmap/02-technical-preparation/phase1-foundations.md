@@ -1,4 +1,34 @@
+---
+title: "Phase 1: Foundations (Weeks 1-3)"
+category: "Technical Preparation"
+phase: 1
+last_updated: "January 2026"
+
+summary: |
+  First 3 weeks covering fundamental data structures and algorithms (47 problems).
+  Topics: Arrays, Hash Maps, Two Pointers, Stack, Sliding Window, Binary Search, Linked Lists,
+  Trees, Tries, Backtracking. Includes Transformer architecture study and DDIA Chapters 1-7.
+  Ends with URL shortener design and GPT vs BERT understanding.
+
+outline:
+  - Goals
+  - Week 1 (Assessment & Core Data Structures)
+  - Week 2 (Algorithms Deep Dive)
+  - Week 3 (Trees, Graphs, Core ML)
+  - Phase 1 Summary
+---
+
 # Phase 1: Foundations (Weeks 1-3)
+
+## Table of Contents
+
+- [Goals](#goals)
+- [Week 1: Assessment & Core Data Structures](#week-1-assessment--core-data-structures)
+- [Week 2: Algorithms Deep Dive](#week-2-algorithms-deep-dive)
+- [Week 3: Trees, Graphs, Core ML](#week-3-trees-graphs-core-ml)
+- [Phase 1 Summary](#phase-1-summary)
+
+---
 
 ## Goals
 

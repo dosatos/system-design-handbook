@@ -1,4 +1,34 @@
+---
+title: "Phase 2: Intermediate Mastery (Weeks 4-6)"
+category: "Technical Preparation"
+phase: 2
+last_updated: "January 2026"
+
+summary: |
+  Weeks 4-6 covering advanced algorithms and ML systems (42 problems, total 89).
+  Topics: Heap, Graphs, DP (1D & 2D), Greedy, Intervals, Union-Find, Dijkstra, Bit Manipulation.
+  ML focus: Distributed training, RLHF pipeline, tokenization (BPE), inference optimization.
+  System design: Rate limiter, Twitter feed, notification system.
+
+outline:
+  - Goals
+  - Week 4 (Advanced Algorithms)
+  - Week 5 (Complex Data Structures & ML Systems)
+  - Week 6 (Advanced Algorithms & LLM Infrastructure)
+  - Phase 2 Summary
+---
+
 # Phase 2: Intermediate Mastery (Weeks 4-6)
+
+## Table of Contents
+
+- [Goals](#goals)
+- [Week 4: Advanced Algorithms](#week-4-advanced-algorithms)
+- [Week 5: Complex Data Structures & ML Systems](#week-5-complex-data-structures--ml-systems)
+- [Week 6: Advanced Algorithms & LLM Infrastructure](#week-6-advanced-algorithms--llm-infrastructure)
+- [Phase 2 Summary](#phase-2-summary)
+
+---
 
 ## Goals
 

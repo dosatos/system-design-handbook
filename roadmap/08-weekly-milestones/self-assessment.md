@@ -1,4 +1,41 @@
+---
+title: "Self-Assessment Rubrics"
+category: "Weekly Milestones"
+last_updated: "January 2026"
+
+summary: |
+  Comprehensive self-assessment rubrics for interview readiness. Covers coding readiness
+  (speed, patterns, communication), system design (classical + ML topics), ML/AI knowledge
+  (fundamentals, transformers, production ML), and behavioral readiness. Target 8+/10 in
+  each area. Includes overall readiness score calculation and pre-interview checklists.
+
+outline:
+  - Readiness Assessment
+  - Coding Readiness
+  - System Design Readiness
+  - ML/AI Knowledge Readiness
+  - Behavioral Readiness
+  - Mock Interview Performance
+  - Overall Readiness Score
+  - Gap Analysis
+  - Pre-Interview Checklist
+---
+
 # Self-Assessment Rubrics
+
+## Table of Contents
+
+- [Readiness Assessment](#readiness-assessment)
+- [Coding Readiness](#coding-readiness)
+- [System Design Readiness](#system-design-readiness)
+- [ML/AI Knowledge Readiness](#mlai-knowledge-readiness)
+- [Behavioral Readiness](#behavioral-readiness)
+- [Mock Interview Performance](#mock-interview-performance)
+- [Overall Readiness Score](#overall-readiness-score)
+- [Gap Analysis](#gap-analysis)
+- [Pre-Interview Checklist](#pre-interview-checklist)
+
+---
 
 ## Readiness Assessment
 

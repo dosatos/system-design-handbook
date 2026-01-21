@@ -1,4 +1,34 @@
+---
+title: "Phase 4: Interview Mode (Weeks 10-12)"
+category: "Technical Preparation"
+phase: 4
+last_updated: "January 2026"
+
+summary: |
+  Final 3 weeks: full mock interview loops, active interviewing, and negotiation.
+  Week 10: 2 full mock days simulating real interview structure. Week 11: Active interviews
+  with company-specific tips for OpenAI, Anthropic, DeepMind, xAI. Week 12: Final rounds,
+  handling multiple offers, negotiation scripts, and compensation benchmarks.
+
+outline:
+  - Goals
+  - Week 10 (Full Mock Interview Loops)
+  - Week 11 (Active Interviewing)
+  - Week 12 (Final Interviews & Negotiation)
+  - Phase 4 Summary
+---
+
 # Phase 4: Interview Mode (Weeks 10-12)
+
+## Table of Contents
+
+- [Goals](#goals)
+- [Week 10: Full Mock Interview Loops](#week-10-full-mock-interview-loops)
+- [Week 11: Active Interviewing](#week-11-active-interviewing)
+- [Week 12: Final Interviews & Negotiation](#week-12-final-interviews--negotiation)
+- [Phase 4 Summary](#phase-4-summary)
+
+---
 
 ## Goals
 

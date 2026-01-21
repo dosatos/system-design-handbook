@@ -1,4 +1,40 @@
+---
+title: "OpenAI Interview Process"
+category: "Interview Intelligence"
+company: "OpenAI"
+last_updated: "January 2026"
+
+summary: |
+  OpenAI interview deep dive: 4-6 hours over 1-2 days, ~30 day process, very hard coding.
+  Stages: recruiter screen, CoderPad technical, skills assessment, final loop (coding, system
+  design, behavioral, research). Focus on practical engineering, ML systems, safety awareness.
+  Recruiter tips are critical - take them seriously.
+
+outline:
+  - Overview
+  - Interview Stages
+  - Coding Interviews
+  - System Design Interviews
+  - Behavioral Interviews
+  - Research/ML Round
+  - Key Success Factors
+  - Resources
+---
+
 # OpenAI Interview Process
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Interview Stages](#interview-stages)
+- [Coding Interviews](#coding-interviews)
+- [System Design Interviews](#system-design-interviews)
+- [Behavioral Interviews](#behavioral-interviews)
+- [Research/ML Round](#researchml-round-role-dependent)
+- [Key Success Factors](#key-success-factors)
+- [Resources](#resources)
+
+---
 
 ## Overview
 

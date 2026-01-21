@@ -1,4 +1,31 @@
+---
+title: "Classical System Design Topics"
+category: "System Design"
+last_updated: "January 2026"
+
+summary: |
+  Comprehensive guide to classical system design concepts. Covers scalability (horizontal vs
+  vertical), load balancing, caching strategies, database design (SQL vs NoSQL, sharding,
+  replication), CAP theorem, message queues, and API design. Includes practice problems
+  (URL shortener, rate limiter, notification system) and estimation techniques.
+
+outline:
+  - Must-Know Concepts (Scalability, Load Balancing, Caching, Databases, CAP, Queues, APIs)
+  - Practice Design Problems
+  - Estimation Practice
+  - Resources
+---
+
 # Classical System Design Topics
+
+## Table of Contents
+
+- [Must-Know Concepts](#must-know-concepts)
+- [Practice Design Problems](#practice-design-problems)
+- [Estimation Practice](#estimation-practice)
+- [Resources](#resources)
+
+---
 
 ## Must-Know Concepts
 

@@ -1,4 +1,42 @@
+---
+title: "Weekly Progress Tracking Template"
+category: "Weekly Milestones"
+last_updated: "January 2026"
+
+summary: |
+  Reusable weekly tracking template for 12-week interview preparation. Sections cover:
+  weekly goals, coding progress (problems, patterns, weak areas), system design progress,
+  ML/AI progress, mock interviews, portfolio progress, behavioral prep, application
+  status. Includes reflection questions and quick stats summary.
+
+outline:
+  - How to Use This Template
+  - Week Check-in Structure
+  - Coding Progress
+  - System Design Progress
+  - ML/AI Progress
+  - Mock Interviews
+  - Portfolio Progress
+  - Behavioral Prep
+  - Weekly Reflection
+---
+
 # Weekly Progress Tracking Template
+
+## Table of Contents
+
+- [How to Use This Template](#how-to-use-this-template)
+- [Week Check-in](#week-x-check-in)
+- [Coding Progress](#coding-progress)
+- [System Design Progress](#system-design-progress)
+- [ML/AI Progress](#mlai-progress)
+- [Mock Interviews](#mock-interviews)
+- [Portfolio Progress](#portfolio-progress)
+- [Behavioral Prep](#behavioral-prep)
+- [Weekly Reflection](#weekly-reflection)
+- [Quick Stats](#quick-stats)
+
+---
 
 ## How to Use This Template
 

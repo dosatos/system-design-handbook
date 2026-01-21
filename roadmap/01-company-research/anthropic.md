@@ -1,4 +1,46 @@
+---
+title: "Anthropic - Company Profile"
+category: "Company Research"
+company: "Anthropic"
+last_updated: "January 2026"
+
+summary: |
+  Anthropic is an AI safety company building Claude, focused on reliable, interpretable, and
+  steerable AI systems. Known for Constitutional AI and strong safety culture. 80% retention
+  rate (industry-leading). Interviews feature progressive coding challenges and AI safety
+  discussions woven into every round. Values direct evidence of ability over credentials.
+
+outline:
+  - Company Overview
+  - Company Culture
+  - Key Technical Requirements
+  - What Makes Anthropic Different
+  - Technical Focus Areas
+  - Compensation
+  - Recent Engineering Focus
+  - Research & Safety Focus
+  - Resources
+  - Interview Tips
+  - Sample Interview Questions
+---
+
 # Anthropic - Company Profile
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Company Culture](#company-culture)
+- [Key Technical Requirements](#key-technical-requirements)
+- [What Makes Anthropic Different](#what-makes-anthropic-different)
+- [Technical Focus Areas](#technical-focus-areas)
+- [Compensation](#compensation)
+- [Recent Engineering Focus](#recent-engineering-focus-2025)
+- [Research & Safety Focus](#research--safety-focus)
+- [Resources](#resources)
+- [Interview Tips](#interview-tips-specific-to-anthropic)
+- [Sample Interview Questions](#sample-interview-questions)
+
+---
 
 ## Overview
 
@@ -10,6 +52,8 @@
 | **Products** | Claude, Claude Code, Claude API |
 | **Mission** | "Build AI systems that are reliable, interpretable, and steerable" |
 
+---
+
 ## Company Culture
 
 - **AI Safety First:** Primary emphasis on safety and interpretability
@@ -20,6 +64,8 @@
 
 ### Culture Quote
 > "High-trust, low-politics environment where transparency is fostered and employees feel empowered to voice concerns directly to leadership."
+
+---
 
 ## Key Technical Requirements
 
@@ -33,6 +79,8 @@
 - Minimum **25% in-office** (SF, NYC, or Seattle)
 - Visa sponsorship available
 
+---
+
 ## What Makes Anthropic Different
 
 > "About half our technical staff had no prior ML experience; about half have PhDs, but plenty of brilliant colleagues never went to college."
@@ -41,6 +89,8 @@
 
 **Key Insight:** Direct evidence of ability matters more than credentials.
 
+---
+
 ## Technical Focus Areas
 
 1. **Constitutional AI** - Safety through AI feedback
@@ -48,6 +98,8 @@
 3. **Claude Development** - Model training, fine-tuning
 4. **Infrastructure** - Serving, scaling, reliability
 5. **Safety Research** - Red-teaming, evaluation
+
+---
 
 ## Compensation
 
@@ -59,6 +111,8 @@
 
 *Equity donation matching, generous PTO, parental leave, flexible hours.*
 
+---
+
 ## Recent Engineering Focus (2025)
 
 Based on [Anthropic Engineering Blog](https://www.anthropic.com/engineering):
@@ -68,6 +122,8 @@ Based on [Anthropic Engineering Blog](https://www.anthropic.com/engineering):
 - **Claude Code** - AI-powered development tools
 - **Interpretability** - Transformer circuits research
 
+---
+
 ## Research & Safety Focus
 
 | Resource | Focus |
@@ -75,6 +131,8 @@ Based on [Anthropic Engineering Blog](https://www.anthropic.com/engineering):
 | [Alignment Science Blog](https://alignment.anthropic.com/) | Safety research updates |
 | [Transformer Circuits](https://transformer-circuits.pub/) | Interpretability research |
 | Sabotage Risk Reports | Model deployment safety |
+
+---
 
 ## Resources
 
@@ -85,6 +143,8 @@ Based on [Anthropic Engineering Blog](https://www.anthropic.com/engineering):
 | Alignment Blog | [alignment.anthropic.com](https://alignment.anthropic.com/) |
 | Research | [anthropic.com/research](https://www.anthropic.com/research) |
 
+---
+
 ## Interview Tips Specific to Anthropic
 
 1. **AI Safety is woven into every round** - Show you care about implications
@@ -93,6 +153,8 @@ Based on [Anthropic Engineering Blog](https://www.anthropic.com/engineering):
 4. **No hidden test cases** - Interviewee-friendly format
 5. **Read Alignment Science Blog** - Discuss Constitutional AI, interpretability
 6. **Independent work matters** - Blog posts, open source, side projects
+
+---
 
 ## Sample Interview Questions
 

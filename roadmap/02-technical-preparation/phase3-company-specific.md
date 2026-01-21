@@ -1,4 +1,34 @@
+---
+title: "Phase 3: Company-Specific Preparation (Weeks 7-9)"
+category: "Technical Preparation"
+phase: 3
+last_updated: "January 2026"
+
+summary: |
+  Weeks 7-9 focusing on company-specific preparation. Anthropic-style progressive challenges
+  (in-memory DB, bank app, package manager). OpenAI/xAI hard problems and concurrency.
+  ML system design: RAG, recommendation systems, model serving, distributed training.
+  Behavioral prep: 10 STAR stories, AI safety reading, mission alignment practice.
+
+outline:
+  - Goals
+  - Week 7 (AI Company Coding Style)
+  - Week 8 (System Design & ML Design Focus)
+  - Week 9 (Behavioral & Culture Deep Dive)
+  - Phase 3 Summary
+---
+
 # Phase 3: Company-Specific Preparation (Weeks 7-9)
+
+## Table of Contents
+
+- [Goals](#goals)
+- [Week 7: AI Company Coding Style](#week-7-ai-company-coding-style)
+- [Week 8: System Design & ML Design Focus](#week-8-system-design--ml-design-focus)
+- [Week 9: Behavioral & Culture Deep Dive](#week-9-behavioral--culture-deep-dive)
+- [Phase 3 Summary](#phase-3-summary)
+
+---
 
 ## Goals
 

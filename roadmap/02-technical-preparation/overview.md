@@ -1,4 +1,40 @@
+---
+title: "Technical Preparation Overview"
+category: "Technical Preparation"
+last_updated: "January 2026"
+
+summary: |
+  Master plan for 12-week technical preparation covering coding, system design, and ML/AI.
+  Includes daily time allocation (3-4 hours), weekly rhythm, 165 problem targets across 4 phases,
+  recommended resources (NeetCode, DDIA, Chip Huyen), and milestones. Python primary language.
+
+outline:
+  - Daily Time Allocation
+  - 12-Week Program Structure
+  - Coding Problem Targets
+  - Primary Resources
+  - Weekly Rhythm
+  - Language Recommendations
+  - Key Milestones
+  - Common Pitfalls to Avoid
+  - Adjusting the Schedule
+---
+
 # Technical Preparation Overview
+
+## Table of Contents
+
+- [Daily Time Allocation](#daily-time-allocation)
+- [12-Week Program Structure](#12-week-program-structure)
+- [Coding Problem Targets](#coding-problem-targets)
+- [Primary Resources](#primary-resources)
+- [Weekly Rhythm](#weekly-rhythm)
+- [Language Recommendations](#language-recommendations)
+- [Key Milestones](#key-milestones)
+- [Common Pitfalls to Avoid](#common-pitfalls-to-avoid)
+- [Adjusting the Schedule](#adjusting-the-schedule)
+
+---
 
 ## Daily Time Allocation
 

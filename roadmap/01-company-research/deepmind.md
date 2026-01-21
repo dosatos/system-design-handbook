@@ -1,4 +1,42 @@
+---
+title: "Google DeepMind - Company Profile"
+category: "Company Research"
+company: "Google DeepMind"
+last_updated: "January 2026"
+
+summary: |
+  Google DeepMind is the world's premier AI research lab, formed from merging Google Brain and
+  DeepMind. Known for AlphaGo, AlphaFold, and Gemini. Research-centric culture with long-term
+  vision. Interviews test ML fundamentals deeply, include unique ML debugging round. Longer
+  hiring process (43-120 days) but LeetCode Medium difficulty coding.
+
+outline:
+  - Company Overview
+  - Company Culture
+  - Key Technical Requirements
+  - Technical Focus Areas
+  - Compensation
+  - Recent Research Focus
+  - Resources
+  - Interview Tips
+  - Sample Interview Questions
+---
+
 # Google DeepMind - Company Profile
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Company Culture](#company-culture)
+- [Key Technical Requirements](#key-technical-requirements)
+- [Technical Focus Areas](#technical-focus-areas)
+- [Compensation](#compensation)
+- [Recent Research Focus](#recent-research-focus-2025)
+- [Resources](#resources)
+- [Interview Tips](#interview-tips-specific-to-deepmind)
+- [Sample Interview Questions](#sample-interview-questions)
+
+---
 
 ## Overview
 
@@ -10,6 +48,8 @@
 | **Products** | Gemini, AlphaFold, AlphaGo, Genie |
 | **Mission** | "Solve intelligence, then use it to solve everything else" |
 
+---
+
 ## Company Culture
 
 - **Research-Centric:** Academic environment with long-term vision
@@ -20,6 +60,8 @@
 
 ### What Sets DeepMind Apart
 > "Research-Centric Visionary... investment in compute and research partnerships underscores a dedication to leadership in sustainable advances rather than immediate market dominance."
+
+---
 
 ## Key Technical Requirements
 
@@ -39,6 +81,8 @@
 - Distributed computing experience
 - Strong communication for interdisciplinary work
 
+---
+
 ## Technical Focus Areas
 
 1. **Frontier Models** - Gemini development, multimodal AI
@@ -46,6 +90,8 @@
 3. **Robotics** - Gemini Robotics, VLA models
 4. **AI Safety** - Gemma Scope, interpretability tools
 5. **World Models** - Genie 3, interactive environments
+
+---
 
 ## Compensation
 
@@ -57,6 +103,8 @@
 
 *Compensation competitive with Google, includes benefits and equity.*
 
+---
+
 ## Recent Research Focus (2025)
 
 Based on [DeepMind Blog](https://deepmind.google/blog/):
@@ -67,14 +115,7 @@ Based on [DeepMind Blog](https://deepmind.google/blog/):
 - **Gemini Robotics On-Device** - VLA models for robotic devices
 - **Genie 3** - General-purpose world model
 
-## Hiring Process
-
-| Stage | Duration |
-|-------|----------|
-| Average process | 43 days |
-| Software Engineer roles | Up to 120 days |
-
-*Hiring is thorough and can be lengthy.*
+---
 
 ## Resources
 
@@ -85,6 +126,8 @@ Based on [DeepMind Blog](https://deepmind.google/blog/):
 | Publications | [deepmind.google/research/publications](https://deepmind.google/research/publications/) |
 | Research | [deepmind.google/research](https://deepmind.google/research/) |
 
+---
+
 ## Interview Tips Specific to DeepMind
 
 1. **Research your interviewers** - Understand their work and ask relevant questions
@@ -94,6 +137,8 @@ Based on [DeepMind Blog](https://deepmind.google/blog/):
 5. **Show research thinking** - Discuss papers, hypotheses, experimental design
 6. **Block prep time** - "I blocked a month... this had a huge impact on my results"
 
+---
+
 ## Sample Interview Questions
 
 ### Coding
@@ -101,9 +146,9 @@ Based on [DeepMind Blog](https://deepmind.google/blog/):
 - Implement gradient descent for logistic regression
 
 ### ML Fundamentals
-- Explain optimization algorithms (Adam, SGD, etc.)
-- Discuss regularization techniques and when to use them
-- Transformer architecture deep dive
+- "Explain how Adam optimizer works"
+- "What's the purpose of layer normalization?"
+- "How do you handle overfitting?"
 
 ### ML Debugging
 - Given buggy training code, identify and fix issues
@@ -112,3 +157,12 @@ Based on [DeepMind Blog](https://deepmind.google/blog/):
 ### Research Discussion
 - Discuss a paper you've read recently
 - How would you approach [open research problem]?
+
+---
+
+## Note on Timeline
+
+The hiring process can be **very long** - up to 120 days for Software Engineer roles. Be patient and:
+- Keep interviewing elsewhere
+- Don't put all eggs in one basket
+- Follow up appropriately with recruiter

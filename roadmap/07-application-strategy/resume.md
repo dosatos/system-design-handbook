@@ -1,4 +1,37 @@
+---
+title: "Resume Optimization for AI Companies"
+category: "Application Strategy"
+last_updated: "January 2026"
+
+summary: |
+  Complete guide to resume optimization for AI company applications. Key principles:
+  lead with impact, use company-relevant keywords (LLMs, distributed training, RLHF),
+  highlight independent work. Optimal layout puts Notable Projects before Experience.
+  Includes company-specific tailoring, ATS optimization, and comprehensive checklists.
+
+outline:
+  - Key Principles
+  - Resume Structure
+  - Section-by-Section Guide
+  - Tailoring for Each Company
+  - Common Mistakes
+  - ATS Optimization
+  - Resume Checklist
+---
+
 # Resume Optimization for AI Companies
+
+## Table of Contents
+
+- [Key Principles](#key-principles)
+- [Resume Structure](#resume-structure)
+- [Section-by-Section Guide](#section-by-section-guide)
+- [Tailoring for Each Company](#tailoring-for-each-company)
+- [Common Mistakes](#common-mistakes)
+- [ATS Optimization](#ats-optimization)
+- [Resume Checklist](#resume-checklist)
+
+---
 
 ## Key Principles
 

@@ -1,4 +1,42 @@
+---
+title: "Anthropic Interview Process"
+category: "Interview Intelligence"
+company: "Anthropic"
+last_updated: "January 2026"
+
+summary: |
+  Anthropic interview deep dive: ~4 hours in 1 day, ~20 day process, medium-hard coding.
+  Unique CodeSignal progressive challenge (4 levels). Stages: recruiter call, CodeSignal,
+  hiring manager, onsite (coding, system design, ML theory, behavioral/AI safety). Focus on
+  speed/correctness over Big O, extreme scale system design, and AI safety throughout.
+
+outline:
+  - Overview
+  - Interview Stages
+  - CodeSignal Assessment Details
+  - Coding Interviews
+  - System Design Interviews
+  - ML Theory Round
+  - Behavioral/AI Safety Round
+  - Key Success Factors
+  - Resources
+---
+
 # Anthropic Interview Process
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Interview Stages](#interview-stages)
+- [CodeSignal Assessment Details](#codesignal-assessment-details)
+- [Coding Interviews](#coding-interviews)
+- [System Design Interviews](#system-design-interviews)
+- [ML Theory Round](#ml-theory-round)
+- [Behavioral/AI Safety Round](#behavioralai-safety-round)
+- [Key Success Factors](#key-success-factors)
+- [Resources](#resources)
+
+---
 
 ## Overview
 

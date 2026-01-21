@@ -1,4 +1,35 @@
+---
+title: "ML System Design"
+category: "System Design"
+last_updated: "January 2026"
+
+summary: |
+  ML-specific system design covering data pipelines, feature stores, model training,
+  serving, and monitoring. Deep dive into LLM topics: RAG architecture, LLM serving
+  optimization (quantization, KV-cache, batching), embeddings and vector search.
+  Common ML design problems: recommendation systems, search/ranking, fraud detection.
+
+outline:
+  - Overview
+  - Core ML System Components (Data Pipeline, Feature Store, Training, Serving, Monitoring)
+  - LLM-Specific Topics (RAG, LLM Serving, Embeddings)
+  - Common ML Design Problems
+  - ML System Design Framework
+  - Resources
+---
+
 # ML System Design
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Core ML System Components](#core-ml-system-components)
+- [LLM-Specific Topics](#llm-specific-topics)
+- [Common ML Design Problems](#common-ml-design-problems)
+- [ML System Design Framework](#ml-system-design-framework)
+- [Resources](#resources)
+
+---
 
 ## Overview
 

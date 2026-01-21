@@ -1,4 +1,33 @@
+---
+title: "STAR Stories Preparation"
+category: "Behavioral"
+last_updated: "January 2026"
+
+summary: |
+  Complete guide to preparing 10 STAR stories for behavioral interviews. Covers themes:
+  Technical Leadership, Conflict Resolution, Failure & Learning, Ambiguity, Impact at Scale,
+  Mentoring, Safety/Ethics, Cross-Team, Initiative, Rapid Learning. Includes templates,
+  examples, interview tips, and tracking worksheet.
+
+outline:
+  - The STAR Framework
+  - Story Categories (10 themes)
+  - Story Templates with Examples
+  - Interview Tips
+  - Story Tracking Template
+---
+
 # STAR Stories Preparation
+
+## Table of Contents
+
+- [The STAR Framework](#the-star-framework)
+- [Story Categories](#story-categories)
+- [Story Templates](#story-templates)
+- [Interview Tips](#interview-tips)
+- [Story Tracking Template](#story-tracking-template)
+
+---
 
 ## The STAR Framework
 

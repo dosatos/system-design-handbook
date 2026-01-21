@@ -1,9 +1,42 @@
+---
+title: "Senior Software Engineer Interview Preparation Runbook"
+description: "Comprehensive 8-12 week preparation guide for SWE positions at OpenAI, Anthropic, DeepMind, and xAI"
+duration: "8-12 weeks"
+target_audience: "Senior Software Engineers with 5+ years experience"
+last_updated: "January 2026"
+
+summary: |
+  This runbook provides a complete, research-backed preparation system for landing Senior Software
+  Engineer positions at top AI companies. It covers company research, technical preparation
+  (coding, system design, ML), interview processes, behavioral preparation, and application
+  strategy with week-by-week milestones and progress tracking.
+
+outline:
+  - Overview & Target Companies
+  - Directory Structure
+  - Quick Start Guide
+  - Preparation Phases (4 phases over 12 weeks)
+  - Success Metrics
+  - Getting Started Steps
+---
+
 # Senior Software Engineer Interview Preparation Runbook
 ## Top AI Companies: OpenAI, Anthropic, DeepMind, xAI
 
 **Duration:** 8-12 weeks
 **Target:** Senior Software Engineer (5+ years experience)
 **Last Updated:** January 2026
+
+---
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Directory Structure](#directory-structure)
+- [Quick Start](#quick-start)
+- [Preparation Phases](#preparation-phases)
+- [Success Metrics](#success-metrics)
+- [Getting Started](#getting-started)
 
 ---
 

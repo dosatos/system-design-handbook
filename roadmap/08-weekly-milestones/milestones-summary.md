@@ -1,4 +1,37 @@
+---
+title: "Weekly Milestones Summary"
+category: "Weekly Milestones"
+last_updated: "January 2026"
+
+summary: |
+  Complete 12-week milestone roadmap with specific targets per week. Phase 1 (weeks 1-3):
+  47 problems, DDIA 1-7, Transformers. Phase 2 (weeks 4-6): 42 problems, distributed
+  training, RLHF. Phase 3 (weeks 7-9): company-specific prep, 6 mocks, 10 STAR stories.
+  Phase 4 (weeks 10-12): full mock loops, active interviewing, negotiation.
+
+outline:
+  - Overview
+  - Phase 1 Foundations (Weeks 1-3)
+  - Phase 2 Intermediate (Weeks 4-6)
+  - Phase 3 Company-Specific (Weeks 7-9)
+  - Phase 4 Interview Mode (Weeks 10-12)
+  - Cumulative Progress Tracker
+  - Weekly Check-In Questions
+---
+
 # Weekly Milestones Summary
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Phase 1: Foundations (Weeks 1-3)](#phase-1-foundations-weeks-1-3)
+- [Phase 2: Intermediate (Weeks 4-6)](#phase-2-intermediate-weeks-4-6)
+- [Phase 3: Company-Specific (Weeks 7-9)](#phase-3-company-specific-weeks-7-9)
+- [Phase 4: Interview Mode (Weeks 10-12)](#phase-4-interview-mode-weeks-10-12)
+- [Cumulative Progress Tracker](#cumulative-progress-tracker)
+- [Weekly Check-In Questions](#weekly-check-in-questions)
+
+---
 
 ## Overview
 

@@ -1,4 +1,36 @@
+---
+title: "Interview Intelligence Overview"
+category: "Interview Intelligence"
+last_updated: "January 2026"
+
+summary: |
+  Comprehensive comparison of interview processes at OpenAI, Anthropic, DeepMind, and xAI.
+  Covers duration, difficulty, stages, and unique elements. OpenAI very hard coding, Anthropic
+  progressive challenges, DeepMind ML debugging, xAI concurrency focus. Key success factors:
+  technical prep, communication, mission alignment, safety awareness.
+
+outline:
+  - Process Comparison
+  - Common Interview Stages
+  - Question Difficulty by Company
+  - What Each Company Tests For
+  - Language Preferences
+  - Key Success Factors
+---
+
 # Interview Intelligence Overview
+
+## Table of Contents
+
+- [Process Comparison](#process-comparison)
+- [Common Interview Stages](#common-interview-stages)
+- [Question Difficulty by Company](#question-difficulty-by-company)
+- [What Each Company Tests For](#what-each-company-tests-for)
+- [Language Preferences](#language-preferences)
+- [Key Success Factors](#key-success-factors)
+- [Company-Specific Deep Dives](#company-specific-deep-dives)
+
+---
 
 ## Process Comparison
 

@@ -1,4 +1,44 @@
+---
+title: "Google DeepMind Interview Process"
+category: "Interview Intelligence"
+company: "Google DeepMind"
+last_updated: "January 2026"
+
+summary: |
+  DeepMind interview deep dive: Long process (43-120 days), LeetCode medium coding.
+  Unique ML debugging round with "stupid" bugs. Stages: recruiter, 2 coding + ML fundamentals,
+  ML design, debugging, team lead, people & culture. Research mindset critical. Block a month
+  for prep - it makes a huge impact on results.
+
+outline:
+  - Overview
+  - Interview Stages
+  - Coding Interviews
+  - ML Fundamentals Interview
+  - ML Debugging Interview
+  - ML Design Interview
+  - Team Lead Interview
+  - People & Culture Interview
+  - Key Success Factors
+  - Resources
+---
+
 # Google DeepMind Interview Process
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Interview Stages](#interview-stages)
+- [Coding Interviews](#coding-interviews)
+- [ML Fundamentals Interview](#ml-fundamentals-interview)
+- [ML Debugging Interview](#ml-debugging-interview)
+- [ML Design Interview](#ml-design-interview)
+- [Team Lead Interview](#team-lead-interview)
+- [People & Culture Interview](#people--culture-interview)
+- [Key Success Factors](#key-success-factors)
+- [Resources](#resources)
+
+---
 
 ## Overview
 

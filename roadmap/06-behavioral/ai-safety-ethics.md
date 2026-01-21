@@ -1,4 +1,37 @@
+---
+title: "AI Safety & Ethics Preparation"
+category: "Behavioral"
+last_updated: "January 2026"
+
+summary: |
+  Essential preparation for AI safety and ethics discussions in interviews. Required reading:
+  Constitutional AI paper, InstructGPT, Alignment Science Blog. Core concepts: RLHF,
+  Constitutional AI, alignment challenges, AI risks. Includes discussion frameworks,
+  sample answers, and company-specific questions for Anthropic and OpenAI.
+
+outline:
+  - Why This Matters
+  - Required Reading
+  - Core Concepts (RLHF, Constitutional AI, Safety Challenges, Risks)
+  - Discussion Topics with Sample Answers
+  - Common Interview Questions
+  - Forming Your Views
+  - Preparation Checklist
+---
+
 # AI Safety & Ethics Preparation
+
+## Table of Contents
+
+- [Why This Matters](#why-this-matters)
+- [Required Reading](#required-reading)
+- [Core Concepts](#core-concepts)
+- [Discussion Topics](#discussion-topics)
+- [Common Interview Questions](#common-interview-questions)
+- [Forming Your Views](#forming-your-views)
+- [Preparation Checklist](#preparation-checklist)
+
+---
 
 ## Why This Matters
 
