@@ -1,12 +1,33 @@
-# Master Plan: 12-Week Interview Preparation
+# Master Plan: 8-Week Interview Preparation
+
+## 🚨 IMPORTANT: This Plan is Deprecated
+
+**New Plan**: See `master-plan-8week-practical.md` for the current 8-week practical engineering plan.
+
+**Why the change**: Research revealed that Anthropic and OpenAI emphasize **practical engineering over algorithm theory**. The new plan reflects this with:
+- 40% portfolio projects (3 deployed systems)
+- 30% system design (ML infrastructure focus)
+- 20% practical coding (75-100 problems vs 200+)
+- 10% behavioral and company prep
+
+**Companies**: Focusing on Anthropic and OpenAI only (removed DeepMind and xAI)
+
+---
+
+# Master Plan: 8-Week Interview Preparation (DEPRECATED)
 
 ## Overview
 
-A comprehensive 12-week preparation program targeting Senior SWE roles at Anthropic, OpenAI, DeepMind, and xAI.
+**⚠️ DEPRECATED**: Use `master-plan-8week-practical.md` instead
 
+A comprehensive 8-week intensive preparation program targeting Senior SWE roles at Anthropic, OpenAI, and DeepMind.
+
+**Updated**: March 30, 2026
 **Start Date**: [To be set]
-**Target Interview Window**: Weeks 10-12
-**Weekly Time Commitment**: 20-25 hours
+**Target Interview Window**: Weeks 6-8
+**Weekly Time Commitment**: 25-30 hours (increased intensity)
+
+**Note**: xAI removed from targets due to organizational instability (founding team exodus, March 2026)
 
 ## Phase Summary
 
@@ -109,7 +130,7 @@ A comprehensive 12-week preparation program targeting Senior SWE roles at Anthro
 
 ### Coding (40 problems)
 - Week 7: Anthropic/OpenAI tagged problems (15)
-- Week 8: DeepMind/xAI tagged + hard problems (15)
+- Week 8: DeepMind tagged + hard problems (15)
 - Week 9: Review weak areas, timed practice (10)
 
 ### System Design

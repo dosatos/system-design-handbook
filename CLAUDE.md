@@ -2,14 +2,14 @@
 
 ## Project Overview
 
-This is a comprehensive AI coaching ecosystem for Senior Software Engineer interview preparation targeting OpenAI, Anthropic, DeepMind, and xAI. The system provides personalized coaching through 6 expert personas, persistent memory across sessions, and structured preparation tracking.
+This is a comprehensive AI coaching ecosystem for Senior Software Engineer interview preparation targeting OpenAI and Anthropic. The system provides personalized coaching through 6 expert personas, persistent memory across sessions, and structured preparation tracking.
 
 ## User Goals
 
-- Secure a Senior SWE position at a top AI lab (OpenAI, Anthropic, DeepMind, or xAI)
-- Achieve target compensation: $500K-$700K+ total compensation
-- Timeline: 12-week intensive preparation program
-- Build demonstrable AI/ML expertise through portfolio projects
+- Secure a Senior SWE position at OpenAI or Anthropic
+- Achieve target compensation: $550K-$760K+ total compensation
+- Timeline: 8-week intensive preparation program
+- Build demonstrable AI/ML expertise through portfolio projects and practical engineering
 
 ## Knowledge Base Structure
 
@@ -64,7 +64,7 @@ At the end of each session:
 
 ### `/status`
 Display current preparation status:
-- Current week in 12-week plan
+- Current week in 8-week plan
 - Problems solved / target
 - Topics completed this week
 - Upcoming deadlines
@@ -101,43 +101,60 @@ Enter negotiation preparation mode:
 
 ## Target Companies
 
-### Primary Targets (Tier 1)
-1. **Anthropic** - SF-based, strong safety focus, TC $470K-$630K
-2. **OpenAI** - SF-based, cutting-edge research, TC $400K-$700K+
+### Primary Targets (2 Companies Focus)
+1. **Anthropic** (HIGHEST PRIORITY) - TC $550K-$759K, excellent culture/stability, practical coding interviews
+2. **OpenAI** - TC $655K-$1.43M, highest compensation, hard but practical interviews
 
-### Secondary Targets (Tier 2)
-3. **DeepMind** - London/US, research-heavy, Google compensation bands
-4. **xAI** - Startup equity upside, competitive base
+**Removed**: DeepMind (longer timeline, lower comp, LeetCode-heavy) and xAI (organizational instability)
+
+### Interview Styles (Critical Difference!)
+
+**Anthropic:**
+- 4 progressive coding rounds (increasing difficulty)
+- Medium-Hard practical coding
+- **Speed and correctness over Big O analysis**
+- "You can look things up" - no memorization required
+- Uses Colab and CodeSignal
+- Emphasizes practical engineering, not algorithm puzzles
+
+**OpenAI:**
+- Very Hard difficulty coding
+- **Practical engineering focus over theoretical algorithms**
+- Large-scale systems thinking
+- Real-world problem solving
+- End-to-end ownership stories critical
 
 ### Preparation Priorities by Company
-- **Anthropic**: Constitutional AI, RLHF, Claude architecture, safety research
-- **OpenAI**: GPT architecture, scaling laws, RLHF, product focus
-- **DeepMind**: Research fundamentals, AlphaFold/Gemini, theoretical depth
-- **xAI**: Move fast, Grok architecture, real-time systems
+- **Anthropic**: Constitutional AI, practical Python projects, system design, AI safety alignment, culture fit
+- **OpenAI**: GPT architecture, practical hard problems, large-scale ML systems, product engineering, ownership stories
 
 ## Success Metrics
 
-### Technical Readiness
-- [ ] 200+ LeetCode problems solved (75 Blind 75, 50 NeetCode 150, 75+ company-tagged)
-- [ ] 15+ system design problems mastered
-- [ ] 3 portfolio projects completed and deployed
-- [ ] ML fundamentals solid (Transformers, RLHF, inference)
+### Technical Readiness (Practical Engineering Focus)
+- [ ] 3 portfolio projects completed and deployed (RAG system, distributed trainer, model serving)
+- [ ] 75-100 practical coding problems (focus on real-world patterns, not algorithm grinding)
+- [ ] 10+ system design problems mastered (ML infrastructure emphasis)
+- [ ] ML fundamentals solid (Transformers, RLHF, inference optimization)
+- [ ] Active GitHub with clean, documented code
+- [ ] Technical blog posts or write-ups demonstrating expertise
 
 ### Application Progress
-- [ ] Resume tailored for each target company
-- [ ] 10+ networking conversations completed
-- [ ] Applications submitted to all target companies
-- [ ] At least 2 final-round interviews scheduled
+- [ ] Resume tailored for Anthropic and OpenAI (projects at TOP)
+- [ ] 5-10 networking conversations completed
+- [ ] Applications submitted to both companies (Week 5)
+- [ ] Referrals secured at both companies
+- [ ] At least 1 final-round interview scheduled
 
 ### Interview Performance
-- [ ] 5+ mock coding interviews with 80%+ pass rate
-- [ ] 5+ mock system design interviews with positive feedback
-- [ ] 10+ behavioral stories polished and practiced
-- [ ] Able to discuss AI safety thoughtfully
+- [ ] 3+ mock practical coding interviews with strong performance
+- [ ] 5+ mock system design interviews (ML infrastructure focus)
+- [ ] 8-10 behavioral stories polished (ownership, mission alignment, AI safety)
+- [ ] Can discuss Constitutional AI and GPT architecture thoughtfully
+- [ ] Portfolio projects demo-ready with clear explanations
 
 ### Compensation Target
-- [ ] Target: $550K-$700K total compensation
-- [ ] Multiple competing offers for leverage
+- [ ] Target: $550K-$760K+ total compensation (Anthropic Lead or OpenAI L4)
+- [ ] Dual offers from both companies for maximum leverage
 - [ ] Negotiation scripts practiced and ready
 
 ## File Conventions
@@ -168,7 +185,7 @@ The `roadmap/` directory contains 31 comprehensive files covering:
 ## Quick Start
 
 1. Read `GETTING-STARTED.md` for onboarding
-2. Review `plans/master-plan.md` for 12-week overview
+2. Review `plans/master-plan.md` for 8-week overview (updated March 2026)
 3. Check `plans/weekly-plans/week-01.md` for immediate actions
 4. Use `@coding-coach` to begin first practice session
 5. Update `memory/journey-log.md` after each session

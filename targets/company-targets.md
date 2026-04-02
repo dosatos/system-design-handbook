@@ -8,12 +8,18 @@ Goals for company research, application, and interview success.
 
 ## Target Companies Overview
 
+**Updated**: March 30, 2026 - Focused on 2 companies with practical interview styles
+
 | Rank | Company | Target Role | Application Week | Interview Target |
 |------|---------|-------------|------------------|------------------|
-| 1 | Anthropic | Senior SWE | Week 7 | Week 10-11 |
-| 2 | OpenAI | Senior SWE | Week 8 | Week 10-12 |
-| 3 | DeepMind | Senior SWE | Week 8 | Week 10-12 |
-| 4 | xAI | Senior SWE | Week 9 | Week 11-12 |
+| 1 | Anthropic | Senior SWE | Week 5 | Week 6-8 |
+| 2 | OpenAI | Senior SWE | Week 5 | Week 6-8 |
+
+**Removed Companies**:
+- ~~xAI~~ - Organizational instability (founding team exodus March 2026)
+- ~~DeepMind~~ - LeetCode-heavy interviews, longer timeline (43-120 days), lower comp
+
+**8-Week Practical Plan**: Focus on portfolio projects and practical engineering vs algorithm grinding
 
 ---
 
@@ -79,65 +85,19 @@ Goals for company research, application, and interview success.
 
 ---
 
-## DeepMind Targets
+## ~~DeepMind Targets~~ (REMOVED - March 2026)
 
-### Research Goals
-- [ ] Understand Gemini architecture (public info)
-- [ ] Know AlphaFold and other key projects
-- [ ] Familiar with research publication culture
-- [ ] Understand Google integration
-- [ ] Know interview process differences
-
-### Application Goals
-- [ ] Tailored resume completed by Week 7
-- [ ] Referral pursued (if possible)
-- [ ] Compelling "Why DeepMind?" answer prepared
-- [ ] Application submitted Week 8
-
-### Interview Preparation Goals
-- [ ] Can discuss research methodologies
-- [ ] Have technically deep stories
-- [ ] Understand academic culture balance
-- [ ] Prepared research-oriented questions
-
-### Success Metrics
-- [ ] Referral: Secured
-- [ ] Application: Submitted
-- [ ] Phone Screen: Passed
-- [ ] Onsite: Scheduled
-- [ ] Offer: Received
-- [ ] Decision: Accepted/Declined
+**Status**: Removed from target list  
+**Reason**: LeetCode Medium interviews (algorithm-heavy), longer timeline (43-120 days), lower compensation ($427K-$584K)  
+**Decision**: Focus on Anthropic and OpenAI with practical interview styles
 
 ---
 
-## xAI Targets
+## ~~xAI Targets~~ (REMOVED - March 2026)
 
-### Research Goals
-- [ ] Understand Grok and its technical approach
-- [ ] Know company founding story and mission
-- [ ] Familiar with team composition
-- [ ] Understand startup nature and pace
-- [ ] Know funding and runway status
-
-### Application Goals
-- [ ] Tailored resume completed by Week 8
-- [ ] Referral pursued (if possible)
-- [ ] Compelling "Why xAI?" answer prepared
-- [ ] Application submitted Week 9
-
-### Interview Preparation Goals
-- [ ] Can discuss startup trade-offs
-- [ ] Have fast-paced environment stories
-- [ ] Understand high-intensity culture
-- [ ] Prepared startup-specific questions
-
-### Success Metrics
-- [ ] Referral: Secured
-- [ ] Application: Submitted
-- [ ] Phone Screen: Passed
-- [ ] Onsite: Scheduled
-- [ ] Offer: Received
-- [ ] Decision: Accepted/Declined
+**Status**: Removed from target list due to organizational instability
+**Reason**: Last co-founder departed March 28, 2026; half of founding team left February 2026
+**Details**: See `roadmap/01-company-research/2026-hiring-intelligence.md` for full analysis
 
 ---
 
@@ -202,34 +162,24 @@ Focus on: Scale of impact, GPT products, technical ambition,
 product thinking
 ```
 
-### DeepMind
-```
-[Draft your answer]
-Focus on: Research excellence, Gemini, scientific approach,
-long-term research bets
-```
+### ~~DeepMind~~ (Removed from targets)
 
-### xAI
-```
-[Draft your answer]
-Focus on: Startup opportunity, technical depth, speed of
-execution, equity upside
-```
+### ~~xAI~~ (Removed from targets)
 
 ---
 
-## Timeline Summary
+## Timeline Summary (8-Week Practical Plan)
 
-| Week | Anthropic | OpenAI | DeepMind | xAI |
-|------|-----------|--------|----------|-----|
-| 5 | Research | - | - | - |
-| 6 | Resume | Research | Research | - |
-| 7 | **Apply** | Resume | Resume | Research |
-| 8 | Phone screen? | **Apply** | **Apply** | Resume |
-| 9 | Onsite? | Phone screen? | Phone screen? | **Apply** |
-| 10 | Onsite/Decision | Onsite? | Onsite? | Phone screen? |
-| 11 | Offer? | Onsite/Decision | Onsite/Decision | Onsite? |
-| 12 | Negotiate | Offer/Negotiate | Offer/Negotiate | Decision |
+| Week | Anthropic | OpenAI |
+|------|-----------|--------|
+| 1-2 | Build RAG system (Project #1), Company research | Build RAG system (Project #1), Company research |
+| 3-4 | Complete RAG, Build distributed trainer (Project #2) | Complete RAG, Build distributed trainer (Project #2) |
+| 5 | Complete distributed trainer, **Apply**, Secure referrals | Complete distributed trainer, **Apply**, Secure referrals |
+| 6 | Complete model serving (Project #3), Phone screen? | Complete model serving (Project #3), Phone screen? |
+| 7 | Onsite interviews? | Onsite interviews? |
+| 8 | Offer/Negotiate | Offer/Negotiate |
+
+**Key Insight**: Both companies have 20-30 day timelines, synchronize applications Week 5 for dual offers
 
 ---
 
