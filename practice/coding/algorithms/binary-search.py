@@ -7,6 +7,9 @@ def binary_search_manual(arr: list[int], target: int) -> int:
 
     arr: sorted list of integers
     target: value to find
+
+    Time Complexity: O(log n)
+    Space Complexity: O(1)
     """
     left, right = 0, len(arr) - 1
     while left <= right:
@@ -27,6 +30,9 @@ def binary_search(arr: list[int], target: int) -> int:
 
     arr: sorted list of integers
     target: value to find
+
+    Time Complexity: O(log n)
+    Space Complexity: O(1)
     """
     idx = bisect.bisect_left(arr, target)
     if idx < len(arr) and arr[idx] == target:

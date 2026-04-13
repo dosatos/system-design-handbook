@@ -4,6 +4,9 @@ def topological_sort(graph: dict[str, list[str]]) -> list[str]:
     """
     Kahn's algorithm for topological sort.
     Handles graphs where neighbors may not appear as keys.
+
+    Time Complexity: O(V + E) where V = vertices, E = edges
+    Space Complexity: O(V) for in_degree dict, queue, and result list
     """
     in_degree = {node: 0 for node in graph}
 
